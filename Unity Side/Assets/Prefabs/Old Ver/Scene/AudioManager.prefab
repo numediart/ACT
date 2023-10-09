@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6735794087073831839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6735794087073831836}
+  - component: {fileID: 6735794087073831837}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6735794087073831836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735794087073831839}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6735794087073831837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6735794087073831839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 407bf9ecb09dac14b891205f93dc167a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioContainer: {fileID: 6735794087073831836}
+  SoundDatas:
+  - Name: Surprised
+    Clips:
+    - {fileID: 8300000, guid: a6c8d00d50d15574d8b09d843dbcac6e, type: 3}
+  - Name: Sus
+    Clips:
+    - {fileID: 8300000, guid: bdf4d76f99f7b8a4bab3757178a381a2, type: 3}
+  - Name: Wow
+    Clips:
+    - {fileID: 8300000, guid: 87cfa6c41f1c89148bc489b512f89a56, type: 3}
+  MusicVolume: 0.3
+  SoundVolume: 0.3

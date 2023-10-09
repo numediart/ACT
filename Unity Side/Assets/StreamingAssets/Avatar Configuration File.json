@@ -1,0 +1,14 @@
+{
+  "TransitionDelay": 0.4,
+  "FullExpressionOn": true,
+  "HeadRotCorrection": {
+    "x": -23.86,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "NeckRotCorrection": {
+    "x": 32.928,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "AvatarActionGroups":
+  [
+    {
+      "Name": "Talking",
+      "AvatarActions":
+      [
+        {
+          "Intensity": 1,
+          "CsvFilePath":"C:\\Users\\user\\Documents\\Avatar_Researches\\FACSvatar\\Openface datas\\Output\\OpenFace 2.2\\csv_1.csv"
+        },
+        {
+          "Intensity": 2,
+          "CsvFilePath":"C:\\Users\\user\\Documents\\Avatar_Researches\\FACSvatar\\Openface datas\\Output\\OpenFace 2.2\\csv_2.csv"
+        }
+      ]
+    },
+    {
+      "Name": "Looking Left",
+      "AvatarActions":
+      [
+        {
+          "Intensity": 1,
+          "CsvFilePath":"C:\\Users\\user\\Documents\\Avatar_Researches\\FACSvatar\\Openface datas\\Output\\OpenFace 2.2\\csv_3.csv"
+        }
+      ]
+    }
+  ]
+}

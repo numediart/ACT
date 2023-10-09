@@ -1,0 +1,134 @@
+{
+    "MoveOrders": [
+        {
+            "LandmarkKey": "eyebrow03L",
+            "MovementCoefficient": 
+            {
+                "x" : 0,
+                "y": 0.05,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyebrow02L",
+            "MovementCoefficient":  
+            {
+                "x" : 0,
+                "y": 0.07,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyebrow01L",
+            "MovementCoefficient":
+                {
+                    "x" : 0,
+                    "y": 0.1,
+                    "z": 0
+                },
+            "RotationCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyebrow03R",
+            "MovementCoefficient":
+            {
+                "x" : 0,
+                "y": 0.05,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyebrow02R",
+            "MovementCoefficient":
+            {
+                "x" : 0,
+                "y": 0.07,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyebrow01R",
+            "MovementCoefficient":
+            {
+                "x" : 0,
+                "y": 0.1,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyeL",
+            "MovementCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 10,
+                "y": 0,
+                "z": -20
+            },
+            "TimeBeforeRewind": 0.5
+        },
+        {
+            "LandmarkKey": "eyeR",
+            "MovementCoefficient":
+            {
+                "x" : 0,
+                "y": 0,
+                "z": 0
+            },
+            "RotationCoefficient":
+            {
+                "x" : 10,
+                "y": 0,
+                "z": 20
+            },
+            "TimeBeforeRewind": 0.5
+        }
+    ],
+    
+    "AudioClipName": ""
+}   

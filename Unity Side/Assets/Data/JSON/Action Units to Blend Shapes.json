@@ -1,0 +1,333 @@
+﻿{
+  "ActionUnits" : 
+          [
+            {
+              "Name" : "AU01",
+              "BlendShapeList" :
+              [
+                {
+                  "Key": "Expressions_browsMidVert",
+                  "Value": 1.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU02",
+              "BlendShapeList" :
+                      [
+                        {
+                          "Key": "Expressions_browOutVertL",
+                          "Value": 0.95
+                        },
+                        {
+                          "Key": "Expressions_browOutVertR",
+                          "Value": 0.95
+                        },
+                        {
+                          "Key": "Expressions_browSqueezeL",
+                          "Value": 0.0
+                        },
+                        {
+                          "Key": "Expressions_browSqueezeR",
+                          "Value": 0.0
+                        }
+                      ]
+            },
+            {
+              "Name" : "AU04",
+              "BlendShapeList":
+                [
+                  {
+                    "Key": "Expressions_browOutVertL",
+                    "Value": 0.2
+                  },
+                  {
+                    "Key": "Expressions_browOutVertR",
+                    "Value": 0.2
+                  },
+                  {
+                    "Key": "Expressions_browSqueezeL",
+                    "Value": 1.0
+                  },
+                  {
+                    "Key": "Expressions_browSqueezeR",
+                    "Value": 1.0
+                  },
+                  {
+                    "Key": "Expressions_browsMidVert",
+                    "Value": 0.0
+                  }
+                ]
+            },
+            {
+              "Name" : "AU05",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_eyeClosedL",
+                  "Value": 0.0
+                },
+                {
+                  "Key": "Expressions_eyeClosedR",
+                  "Value": 0.0
+                },
+                {
+                  "Key": "Expressions_eyeClosedPressureL",
+                  "Value": 0.3
+                },
+                {
+                  "Key": "Expressions_eyeClosedPressureR",
+                  "Value": 0.3
+                },
+                {
+                  "Key": "Expressions_eyeSquintL",
+                  "Value": 0.58
+                },
+                {
+                  "Key": "Expressions_eyeSquintR",
+                  "Value": 0.58
+                }
+              ]
+            },
+            {
+              "Name" : "AU06",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_cheekSneerL",
+                  "Value": 0.7
+                },
+                {
+                  "Key": "Expressions_cheekSneerR",
+                  "Value": 0.7
+                },
+                {
+                  "Key": "Expressions_mouthSmile",
+                  "Value": 0.65
+                },
+                {
+                  "Key": "Expressions_browOutVertL",
+                  "Value": 0.35
+                },
+                {
+                  "Key": "Expressions_browOutVertR",
+                  "Value": 0.35
+                }
+              ]
+            },  
+            {
+              "Name" : "AU09",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_cheekSneerL",
+                  "Value": 1.0
+                },
+                {
+                  "Key": "Expressions_cheekSneerR",
+                  "Value": 1.0
+                },
+                {
+                  "Key": "Expressions_eyeClosedPressureL",
+                  "Value": 0.6
+                },
+                {
+                  "Key": "Expressions_eyeClosedPressureR",
+                  "Value": 0.6
+                },
+                {
+                  "Key": "Expressions_mouthOpenAggr",
+                  "Value": 0.6
+                },
+                {
+                  "Key": "Expressions_nostrilsExpansion",
+                  "Value": 0.7
+                }
+              ]
+            },
+            {
+              "Name" : "AU10",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_cheekSneerL",
+                  "Value": 1.0
+                },
+                {
+                  "Key": "Expressions_cheekSneerR",
+                  "Value": 1.0
+                },
+                {
+                  "Key": "Expressions_mouthOpenAggr",
+                  "Value": 0.2
+                },
+                {
+                  "Key": "Expressions_nostrilsExpansion",
+                  "Value": 1.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU12",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthSmile",
+                  "Value": 1.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU14",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthSmileL",
+                  "Value": 0.85
+                },
+                {
+                  "Key": "Expressions_mouthSmileR",
+                  "Value": 0.85
+                },
+                {
+                  "Key": "Expressions_mouthSmileOpen",
+                  "Value": 0.52
+                }
+              ]
+            },
+            {
+              "Name" : "AU15",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthSmile",
+                  "Value": 0.1
+                }
+              ]
+            },
+            {
+              "Name" : "AU17",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthSmileOpen2",
+                  "Value": 0.2
+                },
+                {
+                  "Key": "Expressions_mouthLowerOut",
+                  "Value": 0.4
+                }
+              ]
+            },
+            {
+              "Name" : "AU20",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthClosed",
+                  "Value": 0.75
+                },
+                {
+                  "Key": "Expressions_mouthSmileL",
+                  "Value": 0.65
+                },
+                {
+                  "Key": "Expressions_mouthSmileR",
+                  "Value": 0.65
+                }
+              ]
+            },
+            {
+              "Name" : "AU23",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthOpen",
+                  "Value": 0.2
+                }
+              ]
+            },
+            {
+              "Name" : "AU25",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthClosed",
+                  "Value": 0.0
+                },
+                {
+                  "Key": "Expressions_mouthOpenTeethClosed",
+                  "Value": 0.55
+                }
+              ]
+            },
+            {
+              "Name" : "AU26",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_mouthOpenLarge",
+                  "Value": 0.85
+                },
+                {
+                  "Key": "Expressions_mouthChew",
+                  "Value": 0.6
+                }
+              ]
+            },
+            {
+              "Name" : "AU45",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_eyeClosedL",
+                  "Value": 1.0
+                },
+                {
+                  "Key": "Expressions_eyeClosedR",
+                  "Value": 1.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU61",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_eyesHoriz",
+                  "Value": 0.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU62",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_eyesHoriz",
+                  "Value": 1.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU63",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_eyesVert",
+                  "Value": 1.0
+                }
+              ]
+            },
+            {
+              "Name" : "AU64",
+              "BlendShapeList":
+              [
+                {
+                  "Key": "Expressions_eyesVert",
+                  "Value": 0.0
+                }
+              ]
+            }
+          ]
+}
