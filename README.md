@@ -60,7 +60,7 @@ If you want to contribute to the project, please follow the steps below :
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
