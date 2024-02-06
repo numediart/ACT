@@ -228,7 +228,7 @@ public class NetworkManager : MonoBehaviour
     private void ConnectToRoom(string roomName, string roomType)
     {
         PlayerIO.Authenticate(
-            "avatar-controller-toolkit-8g1b8uczeowj6ffvawksg",            //Your game id
+            "avatar-controller-toolkit-8g1b8uczeowj6ffvawksg",            //ID provided by the Numediart's Player.io account
             "public",                               //Your connection id
             new Dictionary<string, string> {        //Authentication arguments
                 { "userId", UserId },
